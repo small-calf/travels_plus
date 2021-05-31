@@ -1,0 +1,16 @@
+2020-08-22 10:54:49.305  INFO 13952 --- [main] c.w.t.TravelsPlusApplicationTests        : Starting TravelsPlusApplicationTests on DESKTOP-H8DO5M6 with PID 13952 (started by 86153 in D:\idea_workspace\springboot\travels_plus)
+2020-08-22 10:54:49.306  INFO 13952 --- [main] c.w.t.TravelsPlusApplicationTests        : No active profile set, falling back to default profiles: default
+2020-08-22 10:54:50.984  INFO 13952 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-22 10:54:51.403  INFO 13952 --- [main] c.w.t.TravelsPlusApplicationTests        : Started TravelsPlusApplicationTests in 2.438 seconds (JVM running for 3.328)
+2020-08-22 10:54:51.702  INFO 13952 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2020-08-22 10:54:51.925  INFO 13952 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-22 10:54:51.927  INFO 13952 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2020-08-22 10:54:51.938  INFO 13952 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2020-08-22 10:55:19.930  INFO 10184 --- [main] c.w.t.TravelsPlusApplicationTests        : Starting TravelsPlusApplicationTests on DESKTOP-H8DO5M6 with PID 10184 (started by 86153 in D:\idea_workspace\springboot\travels_plus)
+2020-08-22 10:55:19.932  INFO 10184 --- [main] c.w.t.TravelsPlusApplicationTests        : No active profile set, falling back to default profiles: default
+2020-08-22 10:55:21.687  INFO 10184 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-22 10:55:22.144  INFO 10184 --- [main] c.w.t.TravelsPlusApplicationTests        : Started TravelsPlusApplicationTests in 2.525 seconds (JVM running for 3.461)
+2020-08-22 10:55:22.413  INFO 10184 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2020-08-22 10:55:22.651  INFO 10184 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-22 10:55:22.652  INFO 10184 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2020-08-22 10:55:22.664  INFO 10184 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
